@@ -1,5 +1,5 @@
 # scraping light novel data
-I scraped readlightnovel.me to get data on all of the light novels there using bs4 and requests
+I scraped [readlightnovel.me](https://www.readlightnovel.me/) to get data on all of the light novels there using bs4 and requests
 
 ## What I did:
 I used requests to access the novel list on the site, extracted all the novels by letter, and for each novel I extracted a bunch of parameters:
