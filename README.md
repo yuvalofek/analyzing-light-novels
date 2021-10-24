@@ -1,6 +1,6 @@
 # scraping light novel data
 I figured out the best specifications for writing a light novel, check it out!
-![](Genres_c.png)
+![](Genres_avgViews.png)
 
 ## Why?
 Writing can be hard. My analysis makes it easier for a new author to start writing and allows them to make data driven choices while doing so. Hopefully more works can be written because of my work and enrich our culture. 
