@@ -1,5 +1,5 @@
 # scraping light novel data
-I figured out the best specifications for writing a light novel, check it out!
+I figured out the best specifications for a light novel, check it out! (still a bit in the works)
 ![](Genres_avgViews.png)
 
 ## Why?
