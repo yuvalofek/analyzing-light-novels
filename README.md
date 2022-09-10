@@ -1,6 +1,6 @@
 # scraping light novel data
 I figured out the best specifications for a light novel, check it out! (still a bit in the works)
-![](Genres_avgViews.png)
+![image](https://user-images.githubusercontent.com/35583988/189500663-642959f8-c4d4-4c7b-a452-e9cf73c6c829.png)
 
 ## Why?
 Writing can be hard. My analysis makes it easier for a new author to start writing and allows them to make data driven choices while doing so. Hopefully more works can be written because of my work and enrich our culture. 
